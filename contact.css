@@ -1,0 +1,29 @@
+#container{
+    text-align: center;
+    position: relative;
+    min-height: 500px;
+    }
+
+h1{
+    font-family: 'Cinzel', serif;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+#footer{
+    font-family: 'Cinzel', serif;
+    position: absolute;
+    max-width: 100pc;
+    background-color: rgb(33, 34, 37);
+    text-align: center;
+    margin-top: 100pc;
+    height: 100px;
+    width: 100vw;
+    bottom: 10px;
+}
+
+h3{
+    background-color: rgb(228, 225, 225);
+    padding: 10px;
+}
