@@ -1,7 +1,13 @@
+body{
+    height: 10ch;
+}
 #container{
-    text-align: center;
     position: relative;
+    text-align: center;
     min-height: 500px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
     }
 
 h1{
@@ -11,16 +17,25 @@ h1{
     text-align: center;
 }
 
+#message{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#button {
+    text-align: center;
+}
 #footer{
     font-family: 'Cinzel', serif;
     position: absolute;
     max-width: 100pc;
+    max-height: 5pc;
     background-color: rgb(33, 34, 37);
+    padding: 30px 0px;
     text-align: center;
-    margin-top: 100pc;
+    margin-top: 1pc;
     height: 100px;
     width: 100vw;
-    bottom: 10px;
 }
 
 h3{

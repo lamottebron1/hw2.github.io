@@ -3,7 +3,6 @@
     position: relative;
     text-align: center;
     padding: 20px;
-    padding-bottom: 0pc;
 }
 
 #image-1 {
@@ -23,7 +22,7 @@ h1{
 
 #footer{
     font-family: 'Cinzel', serif;
-    position: absolute
+    position: absolute;
     max-width: 100pc;
     background-color: rgb(33, 34, 37);
     padding: 30px 0px;
